@@ -1,0 +1,6 @@
+C:\Users\stoya_000\Desktop\izpit\HomeWork8 TextFiles\HomeWork8 TextFiles\bin\Debug\HomeWork8 TextFiles.exe.config
+C:\Users\stoya_000\Desktop\izpit\HomeWork8 TextFiles\HomeWork8 TextFiles\bin\Debug\HomeWork8 TextFiles.exe
+C:\Users\stoya_000\Desktop\izpit\HomeWork8 TextFiles\HomeWork8 TextFiles\bin\Debug\HomeWork8 TextFiles.pdb
+C:\Users\stoya_000\Desktop\izpit\HomeWork8 TextFiles\HomeWork8 TextFiles\obj\Debug\01.PrintOddLinesOfTextFile.csprojResolveAssemblyReference.cache
+C:\Users\stoya_000\Desktop\izpit\HomeWork8 TextFiles\HomeWork8 TextFiles\obj\Debug\HomeWork8 TextFiles.exe
+C:\Users\stoya_000\Desktop\izpit\HomeWork8 TextFiles\HomeWork8 TextFiles\obj\Debug\HomeWork8 TextFiles.pdb

@@ -1,0 +1,8 @@
+C:\Users\stoya_000\Desktop\izpit\Homework3 Methods\10.NFactorial\bin\Debug\10.NFactorial.exe.config
+C:\Users\stoya_000\Desktop\izpit\Homework3 Methods\10.NFactorial\bin\Debug\10.NFactorial.exe
+C:\Users\stoya_000\Desktop\izpit\Homework3 Methods\10.NFactorial\bin\Debug\10.NFactorial.pdb
+C:\Users\stoya_000\Desktop\izpit\Homework3 Methods\10.NFactorial\obj\Debug\10.NFactorial.csprojResolveAssemblyReference.cache
+C:\Users\stoya_000\Desktop\izpit\Homework3 Methods\10.NFactorial\obj\Debug\_10.NFactorial.Properties.Resources.resources
+C:\Users\stoya_000\Desktop\izpit\Homework3 Methods\10.NFactorial\obj\Debug\10.NFactorial.csproj.GenerateResource.Cache
+C:\Users\stoya_000\Desktop\izpit\Homework3 Methods\10.NFactorial\obj\Debug\10.NFactorial.exe
+C:\Users\stoya_000\Desktop\izpit\Homework3 Methods\10.NFactorial\obj\Debug\10.NFactorial.pdb

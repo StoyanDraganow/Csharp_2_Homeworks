@@ -1,0 +1,5 @@
+C:\Users\stoya_000\Desktop\izpit\HomeWork8 TextFiles\10_ExtractTextFromXML\bin\Debug\10_ExtractTextFromXML.exe.config
+C:\Users\stoya_000\Desktop\izpit\HomeWork8 TextFiles\10_ExtractTextFromXML\bin\Debug\10_ExtractTextFromXML.exe
+C:\Users\stoya_000\Desktop\izpit\HomeWork8 TextFiles\10_ExtractTextFromXML\bin\Debug\10_ExtractTextFromXML.pdb
+C:\Users\stoya_000\Desktop\izpit\HomeWork8 TextFiles\10_ExtractTextFromXML\obj\Debug\10_ExtractTextFromXML.exe
+C:\Users\stoya_000\Desktop\izpit\HomeWork8 TextFiles\10_ExtractTextFromXML\obj\Debug\10_ExtractTextFromXML.pdb

@@ -1,0 +1,5 @@
+C:\Users\stoya_000\Desktop\izpit\Multidimensional Arrays\04. Binary search\bin\Debug\_04.Binary_search.exe.config
+C:\Users\stoya_000\Desktop\izpit\Multidimensional Arrays\04. Binary search\bin\Debug\_04.Binary_search.exe
+C:\Users\stoya_000\Desktop\izpit\Multidimensional Arrays\04. Binary search\bin\Debug\_04.Binary_search.pdb
+C:\Users\stoya_000\Desktop\izpit\Multidimensional Arrays\04. Binary search\obj\Debug\_04.Binary_search.exe
+C:\Users\stoya_000\Desktop\izpit\Multidimensional Arrays\04. Binary search\obj\Debug\_04.Binary_search.pdb

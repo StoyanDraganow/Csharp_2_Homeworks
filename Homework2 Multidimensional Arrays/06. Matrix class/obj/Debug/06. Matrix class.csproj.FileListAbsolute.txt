@@ -1,0 +1,5 @@
+C:\Users\stoya_000\Desktop\izpit\Multidimensional Arrays\06. Matrix class\bin\Debug\_06.Matrix_class.exe.config
+C:\Users\stoya_000\Desktop\izpit\Multidimensional Arrays\06. Matrix class\bin\Debug\_06.Matrix_class.exe
+C:\Users\stoya_000\Desktop\izpit\Multidimensional Arrays\06. Matrix class\bin\Debug\_06.Matrix_class.pdb
+C:\Users\stoya_000\Desktop\izpit\Multidimensional Arrays\06. Matrix class\obj\Debug\_06.Matrix_class.exe
+C:\Users\stoya_000\Desktop\izpit\Multidimensional Arrays\06. Matrix class\obj\Debug\_06.Matrix_class.pdb

@@ -1,0 +1,5 @@
+C:\Users\stoya_000\Desktop\izpit\Multidimensional Arrays\03. Sequence n matrix\bin\Debug\_03.Sequence_n_matrix.exe.config
+C:\Users\stoya_000\Desktop\izpit\Multidimensional Arrays\03. Sequence n matrix\bin\Debug\_03.Sequence_n_matrix.exe
+C:\Users\stoya_000\Desktop\izpit\Multidimensional Arrays\03. Sequence n matrix\bin\Debug\_03.Sequence_n_matrix.pdb
+C:\Users\stoya_000\Desktop\izpit\Multidimensional Arrays\03. Sequence n matrix\obj\Debug\_03.Sequence_n_matrix.exe
+C:\Users\stoya_000\Desktop\izpit\Multidimensional Arrays\03. Sequence n matrix\obj\Debug\_03.Sequence_n_matrix.pdb

@@ -1,0 +1,6 @@
+C:\Users\stoya_000\Desktop\izpit\Homework Exception Handling\Homework Exception Handling\bin\Debug\Homework Exception Handling.exe.config
+C:\Users\stoya_000\Desktop\izpit\Homework Exception Handling\Homework Exception Handling\bin\Debug\Homework Exception Handling.exe
+C:\Users\stoya_000\Desktop\izpit\Homework Exception Handling\Homework Exception Handling\bin\Debug\Homework Exception Handling.pdb
+C:\Users\stoya_000\Desktop\izpit\Homework Exception Handling\Homework Exception Handling\obj\Debug\01.SquareRoot.csprojResolveAssemblyReference.cache
+C:\Users\stoya_000\Desktop\izpit\Homework Exception Handling\Homework Exception Handling\obj\Debug\Homework Exception Handling.exe
+C:\Users\stoya_000\Desktop\izpit\Homework Exception Handling\Homework Exception Handling\obj\Debug\Homework Exception Handling.pdb

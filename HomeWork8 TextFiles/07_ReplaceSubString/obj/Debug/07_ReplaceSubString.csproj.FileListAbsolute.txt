@@ -1,0 +1,5 @@
+C:\Users\stoya_000\Desktop\izpit\HomeWork8 TextFiles\07_ReplaceSubString\bin\Debug\07_ReplaceSubString.exe.config
+C:\Users\stoya_000\Desktop\izpit\HomeWork8 TextFiles\07_ReplaceSubString\bin\Debug\07_ReplaceSubString.exe
+C:\Users\stoya_000\Desktop\izpit\HomeWork8 TextFiles\07_ReplaceSubString\bin\Debug\07_ReplaceSubString.pdb
+C:\Users\stoya_000\Desktop\izpit\HomeWork8 TextFiles\07_ReplaceSubString\obj\Debug\07_ReplaceSubString.exe
+C:\Users\stoya_000\Desktop\izpit\HomeWork8 TextFiles\07_ReplaceSubString\obj\Debug\07_ReplaceSubString.pdb

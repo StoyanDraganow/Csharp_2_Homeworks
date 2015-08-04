@@ -1,0 +1,5 @@
+C:\Users\stoya_000\Desktop\izpit\HomeWork8 TextFiles\12_RemoveWords\bin\Debug\12_RemoveWords.exe.config
+C:\Users\stoya_000\Desktop\izpit\HomeWork8 TextFiles\12_RemoveWords\bin\Debug\12_RemoveWords.exe
+C:\Users\stoya_000\Desktop\izpit\HomeWork8 TextFiles\12_RemoveWords\bin\Debug\12_RemoveWords.pdb
+C:\Users\stoya_000\Desktop\izpit\HomeWork8 TextFiles\12_RemoveWords\obj\Debug\12_RemoveWords.exe
+C:\Users\stoya_000\Desktop\izpit\HomeWork8 TextFiles\12_RemoveWords\obj\Debug\12_RemoveWords.pdb

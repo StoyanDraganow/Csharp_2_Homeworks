@@ -1,0 +1,5 @@
+C:\Users\stoya_000\Desktop\izpit\Homework Using Classes and Objects\07.ArithmeticalExpressions\bin\Debug\07.ArithmeticalExpressions.exe.config
+C:\Users\stoya_000\Desktop\izpit\Homework Using Classes and Objects\07.ArithmeticalExpressions\bin\Debug\07.ArithmeticalExpressions.exe
+C:\Users\stoya_000\Desktop\izpit\Homework Using Classes and Objects\07.ArithmeticalExpressions\bin\Debug\07.ArithmeticalExpressions.pdb
+C:\Users\stoya_000\Desktop\izpit\Homework Using Classes and Objects\07.ArithmeticalExpressions\obj\Debug\07.ArithmeticalExpressions.exe
+C:\Users\stoya_000\Desktop\izpit\Homework Using Classes and Objects\07.ArithmeticalExpressions\obj\Debug\07.ArithmeticalExpressions.pdb

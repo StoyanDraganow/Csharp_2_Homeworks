@@ -1,0 +1,6 @@
+C:\Users\stoya_000\Desktop\izpit\Homework Strings and Text Processing\Homework Strings and Text Processing\bin\Debug\Homework Strings and Text Processing.exe.config
+C:\Users\stoya_000\Desktop\izpit\Homework Strings and Text Processing\Homework Strings and Text Processing\bin\Debug\Homework Strings and Text Processing.exe
+C:\Users\stoya_000\Desktop\izpit\Homework Strings and Text Processing\Homework Strings and Text Processing\bin\Debug\Homework Strings and Text Processing.pdb
+C:\Users\stoya_000\Desktop\izpit\Homework Strings and Text Processing\Homework Strings and Text Processing\obj\Debug\01.StringInCSharp.csprojResolveAssemblyReference.cache
+C:\Users\stoya_000\Desktop\izpit\Homework Strings and Text Processing\Homework Strings and Text Processing\obj\Debug\Homework Strings and Text Processing.exe
+C:\Users\stoya_000\Desktop\izpit\Homework Strings and Text Processing\Homework Strings and Text Processing\obj\Debug\Homework Strings and Text Processing.pdb

@@ -1,0 +1,5 @@
+C:\Users\stoya_000\Desktop\izpit\Multidimensional Arrays\02. Maximal sum\bin\Debug\_02.Maximal_sum.exe.config
+C:\Users\stoya_000\Desktop\izpit\Multidimensional Arrays\02. Maximal sum\bin\Debug\_02.Maximal_sum.exe
+C:\Users\stoya_000\Desktop\izpit\Multidimensional Arrays\02. Maximal sum\bin\Debug\_02.Maximal_sum.pdb
+C:\Users\stoya_000\Desktop\izpit\Multidimensional Arrays\02. Maximal sum\obj\Debug\_02.Maximal_sum.exe
+C:\Users\stoya_000\Desktop\izpit\Multidimensional Arrays\02. Maximal sum\obj\Debug\_02.Maximal_sum.pdb

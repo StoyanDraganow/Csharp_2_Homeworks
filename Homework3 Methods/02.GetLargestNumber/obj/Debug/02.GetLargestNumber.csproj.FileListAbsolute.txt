@@ -1,0 +1,1 @@
+C:\Users\stoya_000\Desktop\izpit\Homework3 Methods\02.GetLargestNumber\bin\Debug\02.GetLargestNumber.exe.config

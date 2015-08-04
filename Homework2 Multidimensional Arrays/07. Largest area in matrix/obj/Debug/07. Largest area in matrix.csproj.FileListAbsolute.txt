@@ -1,0 +1,5 @@
+C:\Users\stoya_000\Desktop\izpit\Multidimensional Arrays\07. Largest area in matrix\bin\Debug\_07.Largest_area_in_matrix.exe.config
+C:\Users\stoya_000\Desktop\izpit\Multidimensional Arrays\07. Largest area in matrix\bin\Debug\_07.Largest_area_in_matrix.exe
+C:\Users\stoya_000\Desktop\izpit\Multidimensional Arrays\07. Largest area in matrix\bin\Debug\_07.Largest_area_in_matrix.pdb
+C:\Users\stoya_000\Desktop\izpit\Multidimensional Arrays\07. Largest area in matrix\obj\Debug\_07.Largest_area_in_matrix.exe
+C:\Users\stoya_000\Desktop\izpit\Multidimensional Arrays\07. Largest area in matrix\obj\Debug\_07.Largest_area_in_matrix.pdb

@@ -1,0 +1,6 @@
+C:\Users\stoya_000\Desktop\izpit\HomeWork8 TextFiles\05_MaximalAreaSum\bin\Debug\05_MaximalAreaSum.exe.config
+C:\Users\stoya_000\Desktop\izpit\HomeWork8 TextFiles\05_MaximalAreaSum\bin\Debug\05_MaximalAreaSum.exe
+C:\Users\stoya_000\Desktop\izpit\HomeWork8 TextFiles\05_MaximalAreaSum\bin\Debug\05_MaximalAreaSum.pdb
+C:\Users\stoya_000\Desktop\izpit\HomeWork8 TextFiles\05_MaximalAreaSum\obj\Debug\05_MaximalAreaSum.csprojResolveAssemblyReference.cache
+C:\Users\stoya_000\Desktop\izpit\HomeWork8 TextFiles\05_MaximalAreaSum\obj\Debug\05_MaximalAreaSum.exe
+C:\Users\stoya_000\Desktop\izpit\HomeWork8 TextFiles\05_MaximalAreaSum\obj\Debug\05_MaximalAreaSum.pdb

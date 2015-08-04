@@ -1,0 +1,6 @@
+C:\Users\stoya_000\Desktop\izpit\01. ArrayWith20Numbers\01. ArrayWith20Numbers\bin\Debug\_01.ArrayWith20Numbers.exe.config
+C:\Users\stoya_000\Desktop\izpit\01. ArrayWith20Numbers\01. ArrayWith20Numbers\bin\Debug\_01.ArrayWith20Numbers.exe
+C:\Users\stoya_000\Desktop\izpit\01. ArrayWith20Numbers\01. ArrayWith20Numbers\bin\Debug\_01.ArrayWith20Numbers.pdb
+C:\Users\stoya_000\Desktop\izpit\01. ArrayWith20Numbers\01. ArrayWith20Numbers\obj\Debug\01. ArrayWith20Numbers.csprojResolveAssemblyReference.cache
+C:\Users\stoya_000\Desktop\izpit\01. ArrayWith20Numbers\01. ArrayWith20Numbers\obj\Debug\_01.ArrayWith20Numbers.exe
+C:\Users\stoya_000\Desktop\izpit\01. ArrayWith20Numbers\01. ArrayWith20Numbers\obj\Debug\_01.ArrayWith20Numbers.pdb

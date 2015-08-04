@@ -1,0 +1,6 @@
+C:\Users\stoya_000\Desktop\izpit\Homework Using Classes and Objects\Homework Using Classes and Objects\bin\Debug\Homework Using Classes and Objects.exe.config
+C:\Users\stoya_000\Desktop\izpit\Homework Using Classes and Objects\Homework Using Classes and Objects\bin\Debug\Homework Using Classes and Objects.exe
+C:\Users\stoya_000\Desktop\izpit\Homework Using Classes and Objects\Homework Using Classes and Objects\bin\Debug\Homework Using Classes and Objects.pdb
+C:\Users\stoya_000\Desktop\izpit\Homework Using Classes and Objects\Homework Using Classes and Objects\obj\Debug\01.LeapYear.csprojResolveAssemblyReference.cache
+C:\Users\stoya_000\Desktop\izpit\Homework Using Classes and Objects\Homework Using Classes and Objects\obj\Debug\Homework Using Classes and Objects.exe
+C:\Users\stoya_000\Desktop\izpit\Homework Using Classes and Objects\Homework Using Classes and Objects\obj\Debug\Homework Using Classes and Objects.pdb

@@ -1,0 +1,5 @@
+C:\Users\stoya_000\Desktop\izpit\01. ArrayWith20Numbers\21. Combinations\bin\Debug\_21.Combinations.exe.config
+C:\Users\stoya_000\Desktop\izpit\01. ArrayWith20Numbers\21. Combinations\bin\Debug\_21.Combinations.exe
+C:\Users\stoya_000\Desktop\izpit\01. ArrayWith20Numbers\21. Combinations\bin\Debug\_21.Combinations.pdb
+C:\Users\stoya_000\Desktop\izpit\01. ArrayWith20Numbers\21. Combinations\obj\Debug\_21.Combinations.exe
+C:\Users\stoya_000\Desktop\izpit\01. ArrayWith20Numbers\21. Combinations\obj\Debug\_21.Combinations.pdb

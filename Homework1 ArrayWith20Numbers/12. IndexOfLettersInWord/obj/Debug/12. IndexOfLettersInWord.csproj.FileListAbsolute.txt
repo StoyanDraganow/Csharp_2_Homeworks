@@ -1,0 +1,5 @@
+C:\Users\stoya_000\Desktop\izpit\01. ArrayWith20Numbers\12. IndexOfLettersInWord\bin\Debug\_12.IndexOfLettersInWord.exe.config
+C:\Users\stoya_000\Desktop\izpit\01. ArrayWith20Numbers\12. IndexOfLettersInWord\bin\Debug\_12.IndexOfLettersInWord.exe
+C:\Users\stoya_000\Desktop\izpit\01. ArrayWith20Numbers\12. IndexOfLettersInWord\bin\Debug\_12.IndexOfLettersInWord.pdb
+C:\Users\stoya_000\Desktop\izpit\01. ArrayWith20Numbers\12. IndexOfLettersInWord\obj\Debug\_12.IndexOfLettersInWord.exe
+C:\Users\stoya_000\Desktop\izpit\01. ArrayWith20Numbers\12. IndexOfLettersInWord\obj\Debug\_12.IndexOfLettersInWord.pdb
